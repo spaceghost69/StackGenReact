@@ -1,2 +1,0 @@
-# StackGenReact
-Created with CodeSandbox
